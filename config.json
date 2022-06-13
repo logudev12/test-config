@@ -1,0 +1,13 @@
+{
+  "myString": "test",
+  "myNumber": 123,
+  "myBoolean": false,
+  "myArray": [
+    "hello",
+    "world"
+  ],
+  "myObject": {
+    "foo": "bar",
+    "check": 1
+  }
+}
